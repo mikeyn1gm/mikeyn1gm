@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mikeyn1gm/threat-hunting-scenario-tor)**
-- **[CTF Threat Hunt Competition Event - Assistance (11/8/25)](https://github.com/mikeyn1gm/ctf-threat-hunt-assistance-11-8-25)**
+- **[CTF Threat Hunt Competition Event - Assistance (11/8/25)](https://github.com/mikeyn1gm/ctf-threat-hunt-assistance-11-8-25)** **[1st Place Winner]**
 
 <hr/>
 
